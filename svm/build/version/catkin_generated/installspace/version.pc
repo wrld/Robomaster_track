@@ -1,0 +1,8 @@
+prefix=/home/guojiaxin/shijue/install
+
+Name: version
+Description: Description of version
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/guojiaxin/shijue/install/lib 
+Requires: 
